@@ -11,8 +11,8 @@ markdown:           rdiscount
 
 # Navigation
 nav:
-  - name:           "About"
-    href:           "//larssondaniel.github.io/about"
+  # - name:           "About"
+  #   href:           "//larssondaniel.github.io/about"
   - name:           "Contact"
     href:           "mailto:hello@larssondaniel.com?Subject=Hey man"
 
